@@ -1,0 +1,6 @@
+*.js
+*.js.map
+.vscode
+node_modules
+typings
+.DS_store
